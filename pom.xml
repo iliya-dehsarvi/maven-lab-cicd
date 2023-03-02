@@ -5,7 +5,6 @@
 
 	<groupId>us.calpoly.csc309</groupId>
 	<artifactId>maven-lab-cicd</artifactId>
-	<version>0.1-SNAPSHOT</version>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
